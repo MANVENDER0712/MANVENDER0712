@@ -52,4 +52,4 @@
   <br>
  <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANVENDER0712&layout=compact&theme=maroongold&hide_border=true&hide_title=true" />
 <br> <br>
-<img alt="Manvender's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aryan2727-debug&theme=chartreuse-dark"></a>
+<img alt="Manvender's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MANVENDER0712&theme=chartreuse-dark"></a>
