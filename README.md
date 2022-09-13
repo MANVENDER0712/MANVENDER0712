@@ -45,11 +45,11 @@
 
  <br><br>   
     
- <a href="https://github.com/Aryan2727-debug">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan2727-debug&show_icons=true&theme=maroongold " />
- <img   width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan2727-debug&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" />
+ <a href="https://github.com/MANVENDER0712">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MANVENDER0712&show_icons=true&theme=maroongold " />
+ <img   width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MANVENDER0712&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" />
   <br>
   <br>
- <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan2727-debug&layout=compact&theme=maroongold&hide_border=true&hide_title=true" />
+ <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANVENDER0712&layout=compact&theme=maroongold&hide_border=true&hide_title=true" />
 <br> <br>
-<img alt="Aryan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aryan2727-debug&theme=chartreuse-dark"></a>
+<img alt="Manvender's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aryan2727-debug&theme=chartreuse-dark"></a>
